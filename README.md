@@ -8,7 +8,7 @@ This repository contains my **latest professional resume**, showcasing my skills
 
 - **Name:** Pawan Kumar  
 - **Email:** pawankumar646435@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/pawan-kumar-028751251/  
+- **LinkedIn:** https://www.linkedin.com/in/pawan646435/
 - **GitHub:** https://github.com/pawan646435  
 - **Location:** India  
 
